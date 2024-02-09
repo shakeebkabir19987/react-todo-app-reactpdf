@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-todo-app-reactpdf/static/css/main.5c99acd5.css",
+    "main.js": "/react-todo-app-reactpdf/static/js/main.6255e692.js",
+    "static/js/787.9e69a5db.chunk.js": "/react-todo-app-reactpdf/static/js/787.9e69a5db.chunk.js",
+    "static/media/background.jpg": "/react-todo-app-reactpdf/static/media/background.3158d4794e16845445c7.jpg",
+    "index.html": "/react-todo-app-reactpdf/index.html",
+    "main.5c99acd5.css.map": "/react-todo-app-reactpdf/static/css/main.5c99acd5.css.map",
+    "main.6255e692.js.map": "/react-todo-app-reactpdf/static/js/main.6255e692.js.map",
+    "787.9e69a5db.chunk.js.map": "/react-todo-app-reactpdf/static/js/787.9e69a5db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c99acd5.css",
+    "static/js/main.6255e692.js"
+  ]
+}
