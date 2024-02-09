@@ -1,0 +1,132 @@
+
+ /* Todo.css */
+
+body{
+  background: url("../src/images/background.jpg");
+}
+.outerdiv {
+    background-color: rgb(254, 250, 250);
+   
+ 
+    border: 2px solid #3498db;
+    width: 50%;
+    height: 90vh;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 40px;
+  }
+  
+  .headingone {
+    text-align: center;
+    font-size: 24px;
+    color: #3498db;
+    margin-bottom: 20px;
+  }
+  
+  .textfield {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .textfield input {
+    width: 60%;
+    height: 40px;
+    padding: 8px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .btnone {
+    width: 100px;
+    height: 38px;
+    font-weight: bold;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btnone:hover {
+    background-color: #2980b9;
+  }
+  
+  .datalist {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .datalist li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+  }
+  
+  .datalist li button {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .datalist li button:hover {
+    background-color: #c0392b;
+  }
+
+
+.datalist {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .datalist li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .datalist li button {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .datalist li button:hover {
+    background-color: #c0392b;
+  }
+  
+  .button-group {
+    display: flex;
+    align-items: center;
+  }
+  
+
+
+  
